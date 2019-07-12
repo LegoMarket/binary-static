@@ -84,7 +84,7 @@ table {
   max-width: 1200px !important; }
 
 body {
-  background: #2a3052;
+  background: #000099;
   font-family: roboto, sans-serif;
   font-size: 18px;
   color: #fff;
@@ -114,12 +114,12 @@ section {
   text-align: center; }
 
 .intro {
-  background: #2a3052;
+  background: #000099;
   padding-top: 100px; }
   .intro span {
     color: #fff; }
   .intro span ~ span {
-    color: #e98024; }
+    color: #ff9900; }
   .intro-bg {
     background: url("../images/hackathon/hackathon_bg.svg") 0 0/cover;
     background-position: center;
@@ -143,7 +143,7 @@ section {
 
 .white-bg {
   background: #fff;
-  color: #2a3052;
+  color: #000099;
   margin: -5px;
   padding: 50px 0; }
 
@@ -151,19 +151,19 @@ section {
   width: 400px;
   height: 65px;
   border-radius: 5px;
-  border: 2px solid #e98024;
+  border: 2px solid #ff9900;
   padding: 10px 20px;
   text-transform: uppercase;
   font-size: 22px;
   transition: all 0.3s; }
   .button-outline:hover {
-    background: #e98024;
+    background: #ff9900;
     color: #fff;
     text-decoration: none; }
 
 a {
   text-decoration: none;
-  color: #e98024; }
+  color: #ff9900; }
   a:hover {
     text-decoration: underline; }
 
@@ -188,7 +188,7 @@ hr {
   transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
   overflow: hidden;
   padding: 10px 0;
-  background: #2a3052; }
+  background: #000099; }
 
 .navbar-brand {
   float: left; }
@@ -218,7 +218,7 @@ hr {
 
 .navbar-fixed-top.top-nav-collapse {
   padding: 0;
-  background: #2a3052 !important; }
+  background: #000099 !important; }
 
 .navbar-toggle {
   position: relative;
@@ -241,7 +241,7 @@ hr {
       font-size: 36px; }
   .navbar {
     position: fixed;
-    background: #2a3052;
+    background: #000099;
     margin-bottom: 0;
     height: 50px;
     overflow: hidden;

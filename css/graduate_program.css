@@ -93,7 +93,7 @@ footer {
   margin-top: 60px; }
 
 a.link {
-  color: #e98024 !important; }
+  color: #ff9900 !important; }
 
 .button-outline {
   border: 2px solid #fff;
@@ -111,7 +111,7 @@ a.link {
 .orange-underline, .intro .intro-body .intro-subtext:after, .section-title h2:after, .section-title-inverse h2:after {
   position: absolute;
   content: '';
-  background: #e98024;
+  background: #ff9900;
   bottom: -20px;
   left: 0;
   right: 0;
@@ -160,7 +160,7 @@ a.link {
   z-index: 999;
   top: 0;
   border-width: 0 0 1px;
-  background: #2a3052;
+  background: #000099;
   -webkit-transition: background 0.5s ease-in-out;
   -moz-transition: background 0.5s ease-in-out;
   transition: background 0.5s ease-in-out; }
@@ -208,7 +208,7 @@ a.link {
 
 @media (max-width: 1199px) {
   .navbar-fixed-top {
-    background: #2a3052 !important;
+    background: #000099 !important;
     margin-bottom: 0;
     padding: 15px;
     overflow: hidden;
@@ -290,7 +290,7 @@ a.link {
     padding: 15px 0;
     margin: 20px 0; }
     .section-title.section-title h2, .section-title-inverse.section-title h2 {
-      color: #15212d; }
+      color: #000033; }
       .section-title.section-title h2:after, .section-title-inverse.section-title h2:after {
         margin: 0; }
 
@@ -377,7 +377,7 @@ a.link {
     position: absolute;
     bottom: -2px;
     height: 4px;
-    background: #15212d;
+    background: #000033;
     z-index: 2;
     left: 0;
     transition: left 0.3s; }

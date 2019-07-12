@@ -162,7 +162,7 @@
       margin: 20px 0; }
       .affiliate-ib-content .type-of-partner .container .has-tabs .ui-tabs-nav {
         border-width: 2px;
-        border-color: #e98024;
+        border-color: #ff9900;
         margin-bottom: 0; }
         .affiliate-ib-content .type-of-partner .container .has-tabs .ui-tabs-nav li {
           padding: 10px;
@@ -173,7 +173,7 @@
             width: 100%;
             font-size: 18px;
             font-weight: 700;
-            color: #2a3052; }
+            color: #000099; }
           .affiliate-ib-content .type-of-partner .container .has-tabs .ui-tabs-nav li:first-child {
             -ms-flex-preferred-size: 49%;
                 flex-basis: 49%;
@@ -183,7 +183,7 @@
                 flex-basis: 49%;
             margin-left: 1%; }
           .affiliate-ib-content .type-of-partner .container .has-tabs .ui-tabs-nav li.ui-tabs-active {
-            background: #e98024; }
+            background: #ff9900; }
             .affiliate-ib-content .type-of-partner .container .has-tabs .ui-tabs-nav li.ui-tabs-active a {
               color: #fff; }
       .affiliate-ib-content .type-of-partner .container .has-tabs .ui-helper-clearfix:before {
@@ -387,7 +387,7 @@
     width: 20px;
     height: 20px;
     border-radius: 50%;
-    background-color: #e98024;
+    background-color: #ff9900;
     margin-left: -30px;
     margin-right: 10px;
     text-align: center;
@@ -544,7 +544,7 @@
   font: normal 100%/normal 'Arial', 'Helvetica', sans-serif;
   color: black;
   text-overflow: clip;
-  background: #e98024;
+  background: #ff9900;
   text-shadow: none;
   -webkit-transform: rotateZ(45deg);
   transform: rotateZ(45deg); }
@@ -563,7 +563,7 @@
   font: normal 100%/normal 'Arial', 'Helvetica', sans-serif;
   color: black;
   text-overflow: clip;
-  background: #e98024;
+  background: #ff9900;
   text-shadow: none;
   -webkit-transform: rotateZ(-45deg);
   transform: rotateZ(-45deg); }
@@ -677,7 +677,7 @@ div.kineticjs-content {
   #guideBtn:hover span.close {
     display: block; }
   #guideBtn strong {
-    color: #2a3052;
+    color: #000099;
     cursor: pointer;
     display: inline-block;
     white-space: nowrap;
@@ -785,10 +785,10 @@ div.kineticjs-content {
     width: 10px;
     height: 10px;
     border-radius: 50%;
-    border: 1px solid #e98024;
+    border: 1px solid #ff9900;
     margin: 0 3px; }
     #content.home-content .tab-circles .tab-circle.selected {
-      background-color: #e98024; }
+      background-color: #ff9900; }
     #content.home-content .tab-circles .tab-circle:first-child {
       margin-left: auto; }
     #content.home-content .tab-circles .tab-circle:last-child {
@@ -975,7 +975,7 @@ div.kineticjs-content {
         text-align: left;
         margin: 0 1rem; }
       .box-overlay-image .box-wrapper .box-content .box-headerline {
-        border-color: #e98024;
+        border-color: #ff9900;
         border-bottom-width: 2px;
         margin: 10px 1rem 0;
         width: 75px; }
@@ -1026,7 +1026,7 @@ div.kineticjs-content {
       #account_currency_img {
         display: none; } }
   #account_currency_current {
-    color: #2a3052;
+    color: #000099;
     font-weight: 300; }
   #account_currency_hint {
     font-size: 1rem;
@@ -1115,7 +1115,7 @@ div.kineticjs-content {
       top: 80%;
       left: calc(50% - 100px);
       content: '\002303';
-      color: #2a3052;
+      color: #000099;
       -webkit-transform-origin: center 35%;
               transform-origin: center 35%;
       -webkit-transform: rotate(180deg);
@@ -1276,15 +1276,15 @@ body #_elev_io * {
 body #_elev_io ._nr4k9 {
   display: block;
   margin-bottom: 20px;
-  color: #2a3052;
+  color: #000099;
   font-size: 22px;
   font-weight: 300; }
 
 body #_elev_io ._1b4vy:hover {
-  color: #2a3052; }
+  color: #000099; }
 
 body #_elev_io ._elevio_articlelink > div {
-  color: #2a3052;
+  color: #000099;
   text-decoration: none;
   font-weight: 700; }
   body #_elev_io ._elevio_articlelink > div > div {
@@ -1325,7 +1325,7 @@ body #_elev_io ._elevio_articlelink > div {
       width: 50px; }
     #content.cyberjaya-content .box-container .box .items p, #content.careers-content .box-container .box .items p {
       font-weight: 600;
-      color: #2a3052; }
+      color: #000099; }
     #content.cyberjaya-content .box-container .box .items > .box-item-end, #content.careers-content .box-container .box .items > .box-item-end {
       padding: 0 30px; }
     @media (max-width: 768px) {
@@ -1335,11 +1335,11 @@ body #_elev_io ._elevio_articlelink > div {
                 justify-content: center; } }
 
 .location-cyberjaya .introduction h1, .location-labuan .introduction h1, .location-malta .introduction h1, .location-asuncion .introduction h1, .location-dubai .introduction h1 {
-  color: #e98024;
+  color: #ff9900;
   font-size: 2.25rem; }
 
 .location-cyberjaya .introduction h2, .location-labuan .introduction h2, .location-malta .introduction h2, .location-asuncion .introduction h2, .location-dubai .introduction h2 {
-  color: #e98024;
+  color: #ff9900;
   font-size: 1.75rem; }
 
 .location-cyberjaya .introduction h4.subheader, .location-labuan .introduction h4.subheader, .location-malta .introduction h4.subheader, .location-asuncion .introduction h4.subheader, .location-dubai .introduction h4.subheader {
@@ -1446,7 +1446,7 @@ body #not_authenticated_financial ul.checked > li {
     font-weight: normal;
     text-transform: capitalize; }
   .about-us-content .about-us .values-box .header-line {
-    border: 2px solid #e98024;
+    border: 2px solid #ff9900;
     width: 50px; }
 
 .about-us-content .fill-text {
@@ -1590,7 +1590,7 @@ body #not_authenticated_financial ul.checked > li {
     width: 40px; }
 
 #how_to_trade_mt5 .border-box {
-  border: 1px solid #2a3052;
+  border: 1px solid #000099;
   border-radius: 4px;
   padding: 25px 50px;
   margin: 20px auto; }
@@ -1740,13 +1740,13 @@ body #not_authenticated_financial ul.checked > li {
   #content.careers-content .career .column-margin {
     margin: 0 0 1em; }
   #content.careers-content .career .header-line {
-    border-color: #e98024;
+    border-color: #ff9900;
     border-width: 3px;
     width: 25%; }
   #content.careers-content .career .fill-text {
     padding: 1em 0; }
   #content.careers-content .career .values-box {
-    border: 2px solid #e98024;
+    border: 2px solid #ff9900;
     margin: 0 4px; }
     #content.careers-content .career .values-box-icon {
       max-width: 60px;
@@ -1761,7 +1761,7 @@ body #not_authenticated_financial ul.checked > li {
       #content.careers-content .career .values-box {
         margin-bottom: 2.5rem; } }
   #content.careers-content .career h4 {
-    color: #2a3052; }
+    color: #000099; }
   #content.careers-content .career ul.role-section {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -1781,7 +1781,7 @@ body #not_authenticated_financial ul.checked > li {
       #content.careers-content .career ul.role-section li.role a.role-btn {
         padding: 15px 20px !important; }
         #content.careers-content .career ul.role-section li.role a.role-btn span {
-          color: #2a3052;
+          color: #000099;
           font-weight: 600;
           font-size: 1.15rem;
           text-transform: none; }
@@ -1890,7 +1890,7 @@ body #not_authenticated_financial ul.checked > li {
   .welcome-content .box-grid .box div > p {
     margin: 1em 0 0.5em; }
     .welcome-content .box-grid .box div > p.text-orange {
-      color: #e98024;
+      color: #ff9900;
       font-size: 1.520875rem;
       font-weight: 300; }
 
@@ -2170,7 +2170,7 @@ body #not_authenticated_financial ul.checked > li {
     .timeline .year:hover {
       -webkit-transform: scale(1.1);
               transform: scale(1.1);
-      background: #e98024;
+      background: #ff9900;
       color: #f2f2f2; }
   .timeline .event {
     position: relative;
@@ -2195,13 +2195,13 @@ body #not_authenticated_financial ul.checked > li {
       padding: 12px;
       direction: ltr; }
     .timeline .event.featured .header {
-      background: #e98024;
+      background: #ff9900;
       color: #f2f2f2; }
     .timeline .event.featured.right:after {
-      border-right: 14px solid #e98024; }
+      border-right: 14px solid #ff9900; }
     @media all and (min-width: 600px) {
       .timeline .event.featured:after {
-        border-left: 14px solid #e98024; } }
+        border-left: 14px solid #ff9900; } }
     @media all and (max-width: 600px) {
       .timeline .event {
         width: 85%; } }

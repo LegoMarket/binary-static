@@ -91,7 +91,7 @@ a.close {
   height: 35px;
   background: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 50 50' width='14' height='14'%3E%3Cpath fill='white' d='M50,5,45,0,25,20,5,0,0,5,20,25,0,45l5,5L25,30,45,50l5-5L30,25Z'/%3E%3C/svg%3E") no-repeat center; }
   a.close:hover {
-    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 50 50' width='14' height='14'%3E%3Cpath fill='%23e98024' d='M50,5,45,0,25,20,5,0,0,5,20,25,0,45l5,5L25,30,45,50l5-5L30,25Z'/%3E%3C/svg%3E"); }
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 50 50' width='14' height='14'%3E%3Cpath fill='%23ff9900' d='M50,5,45,0,25,20,5,0,0,5,20,25,0,45l5,5L25,30,45,50l5-5L30,25Z'/%3E%3C/svg%3E"); }
 
 a.previous-wrapper {
   display: -webkit-box;
@@ -103,7 +103,7 @@ a.previous-wrapper {
     z-index: 1;
     width: 16px;
     height: 14px;
-    background: url("data:image/svg+xml;charset=utf8,%3Csvg width='16' height='14' viewBox='0 0 16 14' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill-rule='nonzero' fill='%232a3052'%3E%3Cpath d='M7.737 1.676L6.263.324.14 7l6.124 6.676 1.474-1.352L2.853 7z'/%3E%3Cpath d='M2 8h14V6H2z'/%3E%3C/g%3E%3C/svg%3E") no-repeat center; }
+    background: url("data:image/svg+xml;charset=utf8,%3Csvg width='16' height='14' viewBox='0 0 16 14' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill-rule='nonzero' fill='%23000099'%3E%3Cpath d='M7.737 1.676L6.263.324.14 7l6.124 6.676 1.474-1.352L2.853 7z'/%3E%3Cpath d='M2 8h14V6H2z'/%3E%3C/g%3E%3C/svg%3E") no-repeat center; }
   a.previous-wrapper span.nowrap {
     padding-left: 5px; }
   a.previous-wrapper:hover {
@@ -132,14 +132,14 @@ a.previous-wrapper {
     position: absolute;
     top: 0;
     right: 0;
-    color: #2a3052;
+    color: #000099;
     width: 24px;
     height: 24px;
     line-height: 24px;
     font-family: 'Arial';
     font-size: 1rem; }
   #notifications_wrapper .notice-msg:hover .notification-dismiss {
-    color: #e98024; }
+    color: #ff9900; }
 
 #trading_socket_container #notifications_wrapper .notice-msg {
   margin-bottom: 10px; }
@@ -231,7 +231,7 @@ a.previous-wrapper {
         background-color: #fff;
         border: 1px solid #dedede; }
         #mb-trading-wrapper #mb_trading #panel .trade_form > div .current:hover, #mb-trading-wrapper #mb_trading #panel .trade_form > div .current.primary-border-color {
-          border-color: #2a3052; }
+          border-color: #000099; }
         #mb-trading-wrapper #mb_trading #panel .trade_form > div .current .nav-caret {
           position: absolute;
           right: 0.6%;
@@ -268,7 +268,7 @@ a.previous-wrapper {
         border-bottom: none;
         background-color: #fff; }
         #mb-trading-wrapper #mb_trading #panel .header-current.primary-border-color {
-          border-color: #2a3052; }
+          border-color: #000099; }
         #mb-trading-wrapper #mb_trading #panel .header-current .gr-row {
           margin: 0; }
         #mb-trading-wrapper #mb_trading #panel .header-current-text {
@@ -281,7 +281,7 @@ a.previous-wrapper {
         #mb-trading-wrapper #mb_trading #panel .header-current > div {
           background-color: #fff; }
         #mb-trading-wrapper #mb_trading #panel .header-current:hover, #mb-trading-wrapper #mb_trading #panel .header-current:hover + #period .current {
-          border-color: #2a3052; }
+          border-color: #000099; }
         #mb-trading-wrapper #mb_trading #panel .header-current .nav-caret {
           position: absolute;
           bottom: 15px;
@@ -572,7 +572,7 @@ a.previous-wrapper {
     padding: 10px 20px;
     margin-bottom: 20px;
     border-radius: 4px;
-    color: #2a3052;
+    color: #000099;
     background: #f2f2f2;
     font-weight: bold; }
     #mt_account_management .get-started-link:before {
@@ -708,7 +708,7 @@ a.previous-wrapper {
       font-size: 0.8695652174rem; }
       #mt_account_management #account_details .acc-info .balance {
         font-size: 1.520875rem;
-        color: #2a3052; }
+        color: #000099; }
   #mt_account_management .acc-actions {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -779,7 +779,7 @@ a.previous-wrapper {
           -ms-flex-align: center;
               align-items: center; }
       #mt_account_management .fst-container #fst_action .type-group .mt5_type_box:hover {
-        border-color: #2a3052; }
+        border-color: #000099; }
       #mt_account_management .fst-container #fst_action .type-group .mt5_type_box:before {
         content: '';
         width: 16px;
@@ -791,7 +791,7 @@ a.previous-wrapper {
         top: 6px; }
       #mt_account_management .fst-container #fst_action .type-group .mt5_type_box div {
         font-weight: bold;
-        color: #2a3052;
+        color: #000099;
         text-align: center;
         -webkit-box-flex: 1;
             -ms-flex: 1;
@@ -813,7 +813,7 @@ a.previous-wrapper {
         background: url("../images/pages/metatrader/dashboard/tick_gray.svg");
         border: none; }
       #mt_account_management .fst-container #fst_action .type-group .mt5_type_box.selected {
-        border-color: #2a3052;
+        border-color: #000099;
         cursor: default; }
         #mt_account_management .fst-container #fst_action .type-group .mt5_type_box.selected:before {
           background: url("../images/pages/metatrader/dashboard/tick.svg");
@@ -975,7 +975,7 @@ a.previous-wrapper {
     line-height: 25px; }
 
 .inpage_popup_container {
-  border: 2px solid #2a3052;
+  border: 2px solid #000099;
   border-top: 1px solid #fff;
   background-color: #fff; }
   .inpage_popup_container .inpage_popup_content_box {
@@ -990,7 +990,7 @@ a.previous-wrapper {
       border: 0;
       padding: 5px;
       line-height: 20px;
-      background-color: #2a3052;
+      background-color: #000099;
       color: #fff;
       padding-right: 30px; }
     .inpage_popup_container .inpage_popup_content_box td {
@@ -1832,7 +1832,7 @@ a.previous-wrapper {
       color: #fff;
       -webkit-box-sizing: border-box;
               box-sizing: border-box;
-      background-color: #e98024;
+      background-color: #ff9900;
       width: 100%;
       display: -webkit-box;
       display: -ms-flexbox;
@@ -1955,7 +1955,7 @@ a.previous-wrapper {
     background-color: #f2f2f2;
     text-align: center; }
     #trading_socket_container #contract_confirmation_container a.close {
-      background-color: #2a3052;
+      background-color: #000099;
       border-radius: 0 0 0 4px; }
     #trading_socket_container #contract_confirmation_container #confirmation_message_container {
       padding: 15px 0;
@@ -2200,7 +2200,7 @@ a.previous-wrapper {
     margin-left: 0; } }
 
 #content ul.tm-ul li.active, #content ul.tm-ul li.ui-tabs-active {
-  background: #2a3052;
+  background: #000099;
   color: #fff; }
 
 #analysis_daily_prices_form {
@@ -2247,7 +2247,7 @@ a.previous-wrapper {
   #deposit_btn_trade span, #upgrade_btn_trade span {
     height: 20px;
     line-height: 20px;
-    background-color: #e98024; }
+    background-color: #ff9900; }
     #deposit_btn_trade span:hover, #upgrade_btn_trade span:hover {
       background-color: #d17320; }
     #deposit_btn_trade span img, #upgrade_btn_trade span img {
@@ -2449,14 +2449,14 @@ a.previous-wrapper {
     padding: 10px 15px; } }
 
 .cashier_note .notice-circle {
-  color: #e98024;
-  border-color: #e98024; }
+  color: #ff9900;
+  border-color: #ff9900; }
 
 .cashier_note p {
-  color: #2a3052; }
+  color: #000099; }
 
 .pm-description {
-  color: #2a3052; }
+  color: #000099; }
 
 #have_real_account {
   display: -webkit-box;
@@ -2542,7 +2542,7 @@ a.previous-wrapper {
     cursor: pointer;
     min-width: 150px; }
     .markets .market_current:hover {
-      border: 1px solid #2a3052; }
+      border: 1px solid #000099; }
     .markets .market_current .market {
       font-size: 14px;
       font-weight: 400;
@@ -2656,7 +2656,7 @@ a.previous-wrapper {
         .markets .markets_dropdown .markets_view .markets_column .desktop .market {
           font-size: 12px;
           padding: 8px 10px;
-          color: #2a3052;
+          color: #000099;
           -webkit-transition: background 0.2s 0.1s;
           transition: background 0.2s 0.1s;
           display: -webkit-box;
@@ -2675,7 +2675,7 @@ a.previous-wrapper {
           .markets .markets_dropdown .markets_view .markets_column .desktop .market.active {
             text-decoration: none;
             font-weight: 600;
-            border-right: 2px solid #2a3052; }
+            border-right: 2px solid #000099; }
           .markets .markets_dropdown .markets_view .markets_column .desktop .market span:nth-of-type(2) {
             margin-left: 10px; }
         .markets .markets_dropdown .markets_view .markets_column .mobile {
@@ -2703,7 +2703,7 @@ a.previous-wrapper {
               -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
               -webkit-tap-highlight-color: transparent; }
               .markets .markets_dropdown .markets_view .markets_column .mobile ul li.active {
-                border-bottom: 2px solid #2a3052; }
+                border-bottom: 2px solid #000099; }
               .markets .markets_dropdown .markets_view .markets_column .mobile ul li .icon {
                 width: 24px;
                 height: 24px; }
@@ -2791,7 +2791,7 @@ a.previous-wrapper {
             -webkit-box-flex: 1;
                 -ms-flex: 1 0 auto;
                     flex: 1 0 auto;
-            color: #2a3052;
+            color: #000099;
             -webkit-transition: none;
             transition: none; }
             @media (min-width: 320px) and (max-width: 767px) {
@@ -2827,7 +2827,7 @@ a.previous-wrapper {
                   -ms-flex: 1 0 auto;
                       flex: 1 0 auto;
               font-weight: 300;
-              color: #e98024; }
+              color: #ff9900; }
               @media (min-width: 320px) and (max-width: 767px) {
                 .markets .markets_dropdown .markets_view .list .market .submarket .submarket_name {
                   font-size: 14px; } }
@@ -2861,11 +2861,11 @@ a.previous-wrapper {
                 .markets .markets_dropdown .markets_view .list .market .submarket .symbols .symbol_name:hover {
                   background: #dedede; }
                 .markets .markets_dropdown .markets_view .list .market .submarket .symbols .symbol_name.active {
-                  background: #2a3052;
+                  background: #000099;
                   color: #fff; }
                   @media (min-width: 320px) and (max-width: 767px) {
                     .markets .markets_dropdown .markets_view .list .market .submarket .symbols .symbol_name.active {
-                      background: #2a3052;
+                      background: #000099;
                       color: #fff;
                       font-weight: normal;
                       padding-left: 5px; } }
@@ -2887,7 +2887,7 @@ a.previous-wrapper {
     text-align: left;
     cursor: pointer; }
     .contracts .contract_current:hover {
-      border: 1px solid #2a3052; }
+      border: 1px solid #000099; }
       .contracts .contract_current:hover.disabled {
         border: 1px solid #dedede;
         cursor: not-allowed; }
@@ -2993,7 +2993,7 @@ a.previous-wrapper {
         font-size: 12px;
         font-weight: 300;
         padding: 0 0 10px;
-        color: #e98024; }
+        color: #ff9900; }
         @media (max-width: 767px) {
           .contracts .contracts_dropdown .contract .contract_type {
             font-size: 14px; } }
@@ -3009,11 +3009,11 @@ a.previous-wrapper {
           .contracts .contracts_dropdown .contract .contract_subtypes .sub:hover {
             background: #dedede; }
           .contracts .contracts_dropdown .contract .contract_subtypes .sub.active {
-            background: #2a3052;
+            background: #000099;
             color: #fff; }
             @media (min-width: 320px) and (max-width: 767px) {
               .contracts .contracts_dropdown .contract .contract_subtypes .sub.active {
-                background: #2a3052;
+                background: #000099;
                 color: #fff;
                 padding: 5px;
                 margin: 0 0 10px;

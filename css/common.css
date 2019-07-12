@@ -133,7 +133,7 @@ h1, h2, h3 {
 
 sup, .sup, .sup:visited {
   font-size: 0.7561436673rem !important;
-  color: #e98024;
+  color: #ff9900;
   vertical-align: super;
   font-weight: normal;
   margin-left: 2px; }
@@ -247,7 +247,7 @@ fieldset {
   fieldset #geocode_validate.geocode-btn {
     -webkit-transition: color 0.25s linear;
     transition: color 0.25s linear;
-    color: #2a3052; }
+    color: #000099; }
     fieldset #geocode_validate.geocode-btn-disabled {
       cursor: not-allowed;
       color: #f2f2f2; }
@@ -347,7 +347,7 @@ label {
   margin: 0;
   padding: 10px;
   text-align: center;
-  border: solid 1px #e98024;
+  border: solid 1px #ff9900;
   background: #f2f2f2;
   z-index: 1000;
   max-width: 90%; }
@@ -519,9 +519,9 @@ button .barspinner.white {
       text-decoration: none;
       display: block;
       padding: 5px 5px 5px 10px;
-      color: #2a3052; }
+      color: #000099; }
   .sidebar ul li.selected {
-    background: #2a3052; }
+    background: #000099; }
     .sidebar ul li.selected a {
       color: #fff;
       text-decoration: none; }
@@ -613,13 +613,13 @@ ul.bullet.gr-row > li {
         margin-bottom: -1px;
         border-bottom: 1px solid #dedede; }
         #content .light .tab-menu-wrap ul.tm-ul li.tm-li, #content .light .tab-menu-wrap ul.tm-ul li.tm-li a {
-          color: #2a3052; }
+          color: #000099; }
         #content .light .tab-menu-wrap ul.tm-ul li.tm-li > a, #content .light .tab-menu-wrap ul.tm-ul li.tm-li > span {
           display: block;
           padding: 0 20px; }
         #content .light .tab-menu-wrap ul.tm-ul li.tm-li.tab-selector {
           height: 3px;
-          background-color: #2a3052;
+          background-color: #000099;
           z-index: 1;
           position: absolute;
           margin-left: 0;
@@ -902,7 +902,7 @@ label + input {
     font-size: 36px;
     font-weight: 300; }
   #interview_popup_container .header-2 {
-    color: #e98024;
+    color: #ff9900;
     font-size: 28px;
     font-weight: 300; }
   #interview_popup_container .header-1, #interview_popup_container .header-2 {
@@ -1169,7 +1169,7 @@ label + input {
 #footer #status_notification {
   -webkit-animation: moveInBottom 0.2s ease-in;
           animation: moveInBottom 0.2s ease-in;
-  background-color: #e98024;
+  background-color: #ff9900;
   display: none;
   -webkit-box-align: center;
       -ms-flex-align: center;
@@ -1210,7 +1210,7 @@ label + input {
   z-index: 1000;
   -webkit-animation: moveInBottom 0.2s ease-in;
           animation: moveInBottom 0.2s ease-in;
-  border-bottom: 3px solid #e98024; }
+  border-bottom: 3px solid #ff9900; }
   #footer #dialog_notification_text {
     color: #fff;
     font-size: 0.8695652174rem;
@@ -1356,7 +1356,7 @@ body #topbar .upgrademessage a, .landing_page-content .upgrademessage a {
           color: #fff; }
 
 #header #menu-top .active-parent > a {
-  color: #e98024; }
+  color: #ff9900; }
 
 #header .topMenuBalance {
   visibility: hidden; }
@@ -1371,7 +1371,7 @@ body #topbar .upgrademessage a, .landing_page-content .upgrademessage a {
     font-weight: 300;
     color: #fff;
     background: url("data:image/svg+xml;charset=utf8,%3Csvg width='20px' height='20px' viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cg id='Symbols' stroke='none' stroke-width='1' fill='none' fill-rule='evenodd'%3E%3Cg id='ic-create-account'%3E%3Cg id='Group-2'%3E%3Ccircle id='Oval-2' stroke='%23FFFFFF' cx='10' cy='10' r='9.5'%3E%3C/circle%3E%3Cpath d='M10.5,9.5 L10.5,5.5 C10.5,5.22385763 10.2761424,5 10,5 C9.72385763,5 9.5,5.22385763 9.5,5.5 L9.5,5.5 L9.5,9.5 L5.5,9.5 C5.22385763,9.5 5,9.72385763 5,10 C5,10.2761424 5.22385763,10.5 5.5,10.5 L9.5,10.5 L9.5,14.5 C9.5,14.7761424 9.72385763,15 10,15 C10.2761424,15 10.5,14.7761424 10.5,14.5 L10.5,10.5 L14.5,10.5 C14.7761424,10.5 15,10.2761424 15,10 C15,9.72385763 14.7761424,9.5 14.5,9.5 L10.5,9.5 Z' id='Combined-Shape' fill='%23FFFFFF'%3E%3C/path%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E") no-repeat 5px 8px;
-    background-color: #e98024; }
+    background-color: #ff9900; }
     #header #main-logout #all-accounts .create_new_account li.topMenuAccounts:hover {
       background-color: initial; }
 
@@ -10739,7 +10739,7 @@ html.mm-opened.mm-black .mm-page {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-color: #e98024;
+  background-color: #ff9900;
   position: fixed;
   right: 8px !important;
   bottom: 8px !important;
